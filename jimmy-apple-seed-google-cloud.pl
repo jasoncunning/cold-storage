@@ -1,5 +1,9 @@
 #!/usr/bin/perl -w
 
+# before running...
+# gcloud components update
+# gcloud auth login
+
 use strict;
 use warnings;
 
